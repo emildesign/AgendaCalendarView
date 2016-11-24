@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements CalendarPickerCon
 
     @Bind(R.id.activity_toolbar)
     Toolbar mToolbar;
+
     @Bind(R.id.agenda_calendar_view)
     AgendaCalendarView mAgendaCalendarView;
 
